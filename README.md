@@ -1,5 +1,7 @@
-# YouTubeBoosted 
+# YouTubeBoosted 💨
 A browser extension that enables a user to read and write comments while watching YouTube videos
+
+![tab1](https://github.com/purpxd/YouTubeBoosted/assets/136267320/f07e9cf2-34ce-4055-a6d1-dfde26dd0243)
 
 # Features
 
